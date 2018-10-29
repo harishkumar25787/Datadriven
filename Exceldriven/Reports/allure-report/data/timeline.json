@@ -1,0 +1,37 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "XTV-HSHOLAPUR",
+    "children" : [ {
+      "name" : "3248-MainThread",
+      "children" : [ {
+        "name" : "test_hero1.test_forasserrt",
+        "uid" : "994542be62b6cbcc",
+        "parentUid" : "7e416c135a8ede265ada96670ed822d7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1540821616073,
+          "stop" : 1540821653380,
+          "duration" : 37307
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_multi.test_multipl_ewindow",
+        "uid" : "6b6143ea49e03b6b",
+        "parentUid" : "7e416c135a8ede265ada96670ed822d7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1540821653400,
+          "stop" : 1540821701629,
+          "duration" : 48229
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7e416c135a8ede265ada96670ed822d7"
+    } ],
+    "uid" : "e119b1db11983faa5df5c2ccc6e7333f"
+  } ]
+}

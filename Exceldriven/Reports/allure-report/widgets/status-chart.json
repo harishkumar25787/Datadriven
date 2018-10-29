@@ -1,0 +1,21 @@
+[ {
+  "uid" : "994542be62b6cbcc",
+  "name" : "test_hero1.test_forasserrt",
+  "time" : {
+    "start" : 1540821616073,
+    "stop" : 1540821653380,
+    "duration" : 37307
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6b6143ea49e03b6b",
+  "name" : "test_multi.test_multipl_ewindow",
+  "time" : {
+    "start" : 1540821653400,
+    "stop" : 1540821701629,
+    "duration" : 48229
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

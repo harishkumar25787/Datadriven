@@ -1,0 +1,7 @@
+The Internet
+2
+Page title before switching : The Internet
+Total windows :  2
+New Window
+Page title after switching to new window :  New Window
+Page title after swithcing back to parent :  The Internet
