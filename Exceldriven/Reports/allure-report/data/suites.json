@@ -5,13 +5,13 @@
     "name" : "Exceldriven.test_assert",
     "children" : [ {
       "name" : "test_hero1.test_forasserrt",
-      "uid" : "994542be62b6cbcc",
+      "uid" : "3f656e8d0135be32",
       "parentUid" : "fc08da14e1b9eea1785229e28d7e0293",
       "status" : "passed",
       "time" : {
-        "start" : 1540821616073,
-        "stop" : 1540821653380,
-        "duration" : 37307
+        "start" : 1540824507289,
+        "stop" : 1540824531090,
+        "duration" : 23801
       },
       "flaky" : false,
       "parameters" : [ ]
@@ -21,13 +21,13 @@
     "name" : "Exceldriven.test_mulitplewindow",
     "children" : [ {
       "name" : "test_multi.test_multipl_ewindow",
-      "uid" : "6b6143ea49e03b6b",
+      "uid" : "5d4343561e720af2",
       "parentUid" : "f3fb0c085442b87cb905104b2407c92f",
       "status" : "passed",
       "time" : {
-        "start" : 1540821653400,
-        "stop" : 1540821701629,
-        "duration" : 48229
+        "start" : 1540824531108,
+        "stop" : 1540824581223,
+        "duration" : 50115
       },
       "flaky" : false,
       "parameters" : [ ]
