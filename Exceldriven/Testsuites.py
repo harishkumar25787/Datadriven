@@ -16,6 +16,3 @@ tc2 = unittest.TestLoader().loadTestsFromTestCase(test_assert.test_hero1)
 # runner = unittest.TextTestRunner(verbosity=2 ).run(smoke)
 suite = unittest.TestSuite([tc2,tc1])
 runner = unittest.TextTestRunner(verbosity=2).run(suite)
-
-# if __name__ == '__main__':
-#     unittest.runner
